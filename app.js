@@ -19,3 +19,6 @@ function showRandomQuote() {
 
 button.addEventListener("click", showRandomQuote);
 showRandomQuote();
+
+
+
